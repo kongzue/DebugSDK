@@ -13,7 +13,7 @@
 
 ### 准备
 1) 创建自定义 Application
-范例：创建名为 MyApplication 的自定义 Application，并在 AndroidManifest.xml中完成配置
+范例：创建名为 MyApplication 的自定义 Application，并在 AndroidManifest.xml 中完成配置
 ```
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
