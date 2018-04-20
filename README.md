@@ -1,5 +1,6 @@
 # DebugSDK
 崩溃上报工具
+![GitHub followers](https://img.shields.io/github/followers/gcssloop.svg?style=social&label=Follow)
 
 ### 说明
 1) 本工具无需任何权限，仅需要进行简单配置即可使用。
