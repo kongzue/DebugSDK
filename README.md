@@ -1,6 +1,19 @@
 # DebugSDK
 崩溃上报工具
 
+<a href="https://github.com/kongzue/DebugSDK">
+<img src="https://img.shields.io/badge/Kongzue%20DebugSDK-1.1.0-green.svg" alt="Kongzue DebugSDK">
+</a> 
+<a href="https://bintray.com/myzchh/maven/DebugSdk">
+<img src="https://img.shields.io/badge/Maven-1.1.0-blue.svg" alt="Maven">
+</a> 
+<a href="http://www.apache.org/licenses/LICENSE-2.0">
+<img src="https://img.shields.io/badge/License-Apache%202.0-red.svg" alt="Maven">
+</a> 
+<a href="http://www.kongzue.com">
+<img src="https://img.shields.io/badge/Homepage-Kongzue.com-brightgreen.svg" alt="Maven">
+</a> 
+
 ### 说明
 1) 本工具无需任何权限，仅需要进行简单配置即可使用。
 2) 本工具提供崩溃信息记录功能，但不提供上传功能，崩溃信息将在软件下次启动时加载，请自行处理。
